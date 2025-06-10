@@ -13,4 +13,4 @@ spec:
           service:
             name: podinfo
             port:
-              number: 9986
+              number: 9898
